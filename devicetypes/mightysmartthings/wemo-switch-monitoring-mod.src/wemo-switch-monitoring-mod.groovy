@@ -19,7 +19,7 @@
  *  Author: Jeroen Keppens, 14/3/2016
  */
  metadata {
-	definition (name: "Wemo Switch Monitoring (MOD)", namespace: "MightySmartThings", author: "SmartThings") {
+	definition (name: "Wemo Switch Monitoring Mod", namespace: "MightySmartThings", author: "Matthias Ertl") {
 		capability "Actuator"
 		capability "Switch"
 		capability "Polling"
