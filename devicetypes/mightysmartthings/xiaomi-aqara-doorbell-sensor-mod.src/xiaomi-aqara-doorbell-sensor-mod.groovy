@@ -24,7 +24,7 @@
  *  Bspranger - Adding Aqara Support
  */
 metadata {
-   definition (name: "Xiaomi Aqara Door/Windows Sensor - MST Doorbell Sensor Mod", namespace: "MightySmartThings", author: "Matthias Ertl") {
+   definition (name: "MST Doorbell Sensor Mod", namespace: "MightySmartThings", author: "Matthias Ertl") {
    capability "Configuration"
    capability "Sensor"
    capability "Contact Sensor"
