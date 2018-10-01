@@ -32,8 +32,8 @@
  */
 metadata {
 	definition (
-		name: "NeoCoolCam Plug / Monitoring", 
-		namespace: "Matthias Ertl", 
+		name: "NeoCoolCam Monitoring Plug", 
+		namespace: "MightySmartThings", 
 		author: "Matthias Ertl"
 	) {
 		capability "Actuator"
