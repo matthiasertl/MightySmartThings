@@ -32,7 +32,7 @@
  */
 metadata {
 	definition (
-		name: "NeoCoolCam / Dome On Off Plug", 
+		name: "NeoCoolCam On Off Plug", 
 		namespace: "MightySmartThings", 
 		author: "Kevin LaFramboise"
 	) {
