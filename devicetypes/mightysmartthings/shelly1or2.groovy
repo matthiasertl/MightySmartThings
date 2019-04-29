@@ -16,7 +16,7 @@
  *
  */
 metadata {
-  definition (name: "Shelly1or2", namespace: "patrickkpowell", author: "Patrick Powell") {
+  definition (name: "Shelly1or2-", namespace: "matthiasertl", author: "Patrick Powell") {
     capability "switch"
     capability "Polling"
     attribute "ip", "string"
